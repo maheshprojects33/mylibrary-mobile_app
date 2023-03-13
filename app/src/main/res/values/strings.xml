@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Library</string>
+
+    //Layout Strings
+    <string name="title">My Book Library</string>
+    <string name="see_all">See All Books</string>
+    <string name="currently_Reading">Currently Reading Books</string>
+    <string name="already_read">Already Read Books</string>
+    <string name="wish_list">Your WishList</string>
+    <string name="favorites">See Your Favorites</string>
+    <string name="about">ABOUT</string>
+    <string name="develop">Developed by <b>Mahesh</b> as a First Project</string>
+
+    //Book Names
+    <string name="book_1">My Book</string>
+
+
+    //Message from bds
+    <string name="bds_msg">"""I LOVE YOU VERY MUCH BDS"""</string>
+</resources>
